@@ -1,0 +1,1 @@
+This repository contains a collection of hands-on machine learning labs designed to build foundational understanding and practical experience. Each lab focuses on a specific ML concept, ranging from data preprocessing and model training to evaluation and deployment. The labs use Python and popular libraries such as scikit-learn, pandas, NumPy, and Matplotlib.
